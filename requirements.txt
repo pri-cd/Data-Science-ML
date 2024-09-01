@@ -1,14 +1,6 @@
 pandas
 numpy
 scipy
-tensorflow
 scikit-learn
 matplotlib
 seaborn
-statsmodels
-xgboost
-lightgbm
-catboost
-keras
-joblib
-torch
