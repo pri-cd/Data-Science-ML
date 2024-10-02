@@ -1,3 +1,5 @@
+#!/bin/bash
+
 pip install pandas==2.2.2 numpy==1.26.4 seaborn==0.13.1 matplotlib==3.7.1 scikit-learn==1.5.2 > /dev/null 2>&1
 if [ $? -eq 0 ]; then
     echo "Pandas, NumPy, Seaborn, Matplotlib, and Scikit-learn installed successfully."
